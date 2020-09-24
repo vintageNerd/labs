@@ -36,6 +36,7 @@ timezone: Europe/Lisbon # https://en.wikipedia.org/wiki/List_of_tz_database_time
 include:
   - _pages
   - _labs
+  - labs
 
 
 # Exclude from processing.
