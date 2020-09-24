@@ -1,9 +1,8 @@
 ---
 layout: single
 title:  "linux labs"
-permalink: /linuxlabs/lab00/
+permalink: /labs/lab00/
 #type: docs
-
 
 sidebar:
  - title: "Laboratórios Linux"
@@ -18,13 +17,13 @@ toc_label: "nabos"
 toc_sticky: true
 #classes: wide
 header:
-  teaser: /labs/009-arch-nabo/term-teaser.png
-  image:  /labs/009-arch-nabo/term2.png
+  #teaser: /labs/009-arch-nabo/term-teaser.png
+  #image:  /labs/009-arch-nabo/term2.png
 
-author_profile: true
+author_profile: false
 read_time: true
-comments: true
-share: true
+comments: false
+share: false
 related: true
 
 ---
