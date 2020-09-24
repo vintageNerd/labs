@@ -9,7 +9,7 @@ sidebar:
    text: "Espreitar o systemd."
    nav: sidebar-linuxlabs
 
-excerpt: "Nabos. laboratório 010"
+#excerpt: "labs"
 date:   2020-09-11 09:22:00 +0100
 categories: containers systemd-nspawn nabos
 toc: true
