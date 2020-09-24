@@ -1,9 +1,60 @@
 main:
+  - title: "Página Principal"
+    url: https://vintagenerd.github.io
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
+  - title: "Categorias"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
+  
+
+
+
+sidebar-linuxlabs:
+- title: "Laptop"
+  children:
+    #- title: "A Máquina"
+    #  url: /llabs/maquina
+    - title: "O disco"
+      url: /llabs/disco
+    - title: "A rede"
+      url: /llabs/rede
+
+- title: "Laboratórios"
+  children:
+    - title: "lab001 xx"
+      url: /llabs/lab001
+    - title: "lab002 xpto"
+      url: /llabs/lab002
+    - title: "lab003 arch-base"
+      url: /llabs/lab003
+    - title: "lab004 arch-001"
+      url: /llabs/lab004
+    - title: "lab005 arch-002"
+      url: /llabs/lab005
+    - title: "lab00"
+      url: /llabs/
+
+- title: "nabos - nspawn -D"
+  children:
+    - title: "lab003 arch-base"
+      url: /llabs/lab003
+    - title: "lab004 arch-001"
+      url: /llabs/lab004
+    - title: "lab005 arch-002"
+      url: /llabs/lab005
+    - title: "lab006 nabo-pid"
+      url: /llabs/lab006
+    - title: "lab007 nabo-vint"
+      url: /llabs/lab007
+
+    - title: "Nabos"
+      url: /llabs/nabos
+    - title: "Alhos"
+      url: /llabs/alhos
+- title: "nspawn -UM"
+  children:
+    - title: "Vitaminas"
+      url: /llabs/vitaminas
+
