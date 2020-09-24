@@ -24,7 +24,6 @@ minimal_mistakes_skin: default
 search: true
 
 
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -61,24 +60,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name             : "vintageNerd"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**linux labs**"
-  location         : "Somewhere"
-  email            :
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+
+
 
 footer:
   links:
