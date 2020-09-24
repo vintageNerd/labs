@@ -32,9 +32,9 @@ sidebar-linuxlabs:
     - title: "lab004 arch-001"
       url: /llabs/lab004
     - title: "lab005 arch-002"
-      url: /llabs/lab005
-    - title: "lab00"
-      url: /llabs/
+      url: /llabs/lab010
+    - title: "lab010-nabos"
+      url: /010-nabos/
 
 - title: "nabos - nspawn -D"
   children:
