@@ -8,52 +8,27 @@ main:
   - title: "Tags"
     url: /tags/
   
-
-
-sidebar-linuxlabs:
-- title: "Laptop"
-  children:
-    #- title: "A Máquina"
-    #  url: /llabs/maquina
-    - title: "O disco"
-      url: /llabs/disco
-    - title: "A rede"
-      url: /llabs/rede
-
+sidebar-linuxlabs:        
 - title: "Laboratórios"
   children:
-    - title: "lab001 xx"
-      url: /llabs/lab001
-    - title: "lab002 xpto"
-      url: /llabs/lab002
-    - title: "lab003 arch-base"
-      url: /llabs/lab003
-    - title: "lab004 arch-001"
-      url: /llabs/lab004
-    - title: "lab005 arch-002"
-      url: /llabs/lab010
     - title: "lab010-nabos"
       url: /010-nabos/
-
-- title: "nabos - nspawn -D"
+    - title: "lab018 qemu-lvm"
+      url: /labs/lab018-qemu-lvm
+- title: "Laptop"
   children:
-    - title: "lab003 arch-base"
-      url: /llabs/lab003
-    - title: "lab004 arch-001"
-      url: /llabs/lab004
-    - title: "lab005 arch-002"
-      url: /llabs/lab005
-    - title: "lab006 nabo-pid"
-      url: /llabs/lab006
-    - title: "lab007 nabo-vint"
-      url: /llabs/lab007
-
+    - title: "O disco"
+      url: /labs/disco
+    - title: "A Rede"
+      url: /labs/rede 
+    - title: "O Host"
+      url: /labs/host 
+- title: "systemd-nspawn"
+  children:
     - title: "Nabos"
-      url: /llabs/nabos
+      url: /labs/nabos
     - title: "Alhos"
-      url: /llabs/alhos
-- title: "nspawn -UM"
-  children:
+      url: /labs/alhos
     - title: "Vitaminas"
       url: /llabs/vitaminas
 
