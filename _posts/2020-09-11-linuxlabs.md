@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "linux labs"
-permalink: /labs/lab00/
+permalink: /labs/linuxlabs/
 #type: docs
 
 sidebar:
@@ -11,9 +11,9 @@ sidebar:
 
 #excerpt: "labs"
 date:   2020-09-11 09:22:00 +0100
-categories: containers systemd-nspawn nabos
+categories: Laboratórios linux. systemd, containers
 toc: true
-toc_label: "nabos"
+toc_label: "Linuxlabs"
 toc_sticky: true
 #classes: wide
 header:
@@ -29,17 +29,10 @@ related: true
 ---
 
 
-
-
-
-
-
-
 # linux labs
 
-bundle exec jekyll serve --livereload
 
+## LAboratórios linux
 
-
-**Nota** Estou a usar a versão antiga com bashscript e não o actual phyton script.
-{: .notice--danger}
+- aprender,relembrar e sobretudo actualizar.
+ 
