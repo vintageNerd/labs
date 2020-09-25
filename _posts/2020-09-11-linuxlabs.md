@@ -5,11 +5,9 @@ permalink: /labs/linuxlabs/
 #type: docs
 
 sidebar:
- - title: "Laboratórios Linux"
-   text: "Espreitar o systemd."
-   nav: sidebar-linuxlabs
+  nav: sidebar-linuxlabs
 
-excerpt: "archlinux systemd, containers"
+#excerpt: "archlinux systemd, containers"
 date:   2020-09-11 09:11:00 +0100
 categories: linux systemd containers
 tags: linux systemd containers
@@ -30,11 +28,9 @@ related: false
 ---
 
 
-# linux labs
-
-
 ## Laboratórios linux
 
-- Para aprender,relembrar e sobretudo actualizar.
+### Para aprender, relembrar e sobretudo actualizar.
 
-
+- Espreitar o systemd.
+- Explorar o systemd-nspawn e o qemu.

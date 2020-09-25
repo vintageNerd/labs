@@ -9,26 +9,33 @@ main:
     url: /tags/
   
 sidebar-linuxlabs:        
-- title: "Laboratórios"
-  children:
-    - title: "lab010-nabos"
-      url: /010-nabos/
-    - title: "lab018 qemu-lvm"
-      url: /labs/lab018-qemu-lvm
 - title: "Laptop"
   children:
     - title: "O disco"
-      url: /labs/disco
+      url: #/labs/disco
     - title: "A Rede"
-      url: /labs/rede 
+      url: #/labs/rede 
     - title: "O Host"
-      url: /labs/host 
+      url: #/labs/host 
 - title: "systemd-nspawn"
   children:
     - title: "Nabos"
-      url: /labs/nabos
+      url: #/labs/nabos
     - title: "Alhos"
-      url: /labs/alhos
+      url: #/labs/alhos
     - title: "Vitaminas"
-      url: /llabs/vitaminas
+      url: #/labs/vitaminas
+- title: "qemu"
+  children:
+    - title: "qemu base"
+      url: /
+    - title: "qemu kernel"
+      url: /
+
+- title: "Laboratórios"
+  children:
+    - title: "lab010-nabos"
+      url: /
+    - title: "lab018 qemu-lvm"
+      url: /            
 
